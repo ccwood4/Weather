@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="search">Search</string>
+    <string name="new_user">New User</string>
+    <string name="sign_in">Sign In</string>
+    <string name="user_hint">User Name</string>
+    <string name="search_name_hint">Place</string>
+    <string name="country_code_hint">Country Code</string>
+    <string name="location">Location</string>
+    <string name="current_temp">Current Temp</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <string name="condition">Condition</string>
+    <string name="show_fav">Show Favorites</string>
+    <string name="add_to_fav">Add Favorite</string>
+    <string name="remove_from_fav">Remove Favorite</string>
+    <string name="context_text">Blank</string>
+</resources>
